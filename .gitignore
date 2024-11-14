@@ -1,0 +1,40 @@
+# Own Image Files
+/ptt8
+/ptt9
+/ptt10
+Fuli/屏幕截图 2022-04-25 222940.jpg
+
+# songlist and packlist
+# songlist
+packlist
+
+# Arcade Generated Files
+*/Arcade
+
+# Copyright Sound Files
+*.ogg
+*.wav
+*.mp3
+
+
+# Copyright Cover Files
+base.jpg
+base.png
+base_256.jpg
+base_256.png
+
+# Video Files
+*.mp4
+
+# Copyright .aff files
+Grievous Lady.aff
+/lostcivilization
+/Calling
+/AFF
+
+# ZIP Files
+*.zip
+
+# Vscode Workspace
+*.code-workspace
+

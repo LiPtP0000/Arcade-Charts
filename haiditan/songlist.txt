@@ -1,0 +1,39 @@
+{
+      "id": "haiditan",
+      "title_localized": {
+        "en": "Umiyuri Kaiteitan",
+        "ja":"ウミユリ海底譚"
+      },
+      "artist": "n-buna",
+      "bpm": "120",
+      "bpm_base": 120,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 60000,
+      "audioPreviewEnd": 86125,
+      "side": 0,
+      "bg": "omatsuri_light",
+      "version": "3.0",
+      "date": 1607838000,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "E.G.G in the sea feat.c6H",
+          "jacketDesigner": "あわしま",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    },
